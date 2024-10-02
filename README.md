@@ -1,16 +1,17 @@
-# Gradle Integrations
+# Gradle Integrations Wishlist
 
 A repository for Gradle Build Tool integrations,
 wishlist for the new integrations, and the related knowledge base.
 
 We will use this repository to move over the ideas of generic plugin integrations submitted in other repositories,
 when they do not fit the scope of the dedicated repositories.
-If you wish to work on any of the specificed integration,
+If you wish to work on any of the listed integrations,
 you are more than welcome to do so!
 
 ## References
 
-- `#contributing` - channel on the Gradle Community Slack for those who want to create new integrations
+- `#contributing` - channel on the Gradle Community Slack for those who want to create new integrations.
+  If you create something new, make sure to post it on `#community-news`, too!
 
 ## License
 
@@ -19,4 +20,4 @@ See [LICENSE.txt](./LICENSE.txt).
 
 ## Contributing
 
-Just submit a pull request or an issue
+Just submit a pull request or an issue!
